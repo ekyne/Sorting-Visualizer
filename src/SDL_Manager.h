@@ -1,4 +1,4 @@
-/* Author: 	Kyle Gilmore
+/* Author: 	Kylie Gilmore
  * Date: 	March 18, 2022
  * Project: 	Sorting Visualizer
  * File: 	SDL_Manager.h
